@@ -1,0 +1,26 @@
+li{
+    list-style: none;
+}
+
+.box{
+    width: 500px;
+    height: 100px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.productName{
+    margin: 10px 10px 10px 15px;
+    font-size: 24px;
+    font-family: Arial;
+    color: gray;
+    font-style: italic;
+}
+
+.checkBtn{
+    margin: 5px 5px 5px 15px;
+}
+
+.deleteBtn{
+    margin: 5px 5px 5px 5px;
+}
